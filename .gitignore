@@ -1,3 +1,9 @@
+# Ignore all log files
+*.log
+# Ignore .vscode dir
+.vscode/
+# Ignore LOG dir
+LOG/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
